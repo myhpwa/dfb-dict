@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dfb-dict/static/css/main.74568ab2.css",
-    "main.js": "/dfb-dict/static/js/main.05fb44bc.js",
+    "main.js": "/dfb-dict/static/js/main.c0bfec10.js",
     "static/js/443.9f8d6cd7.chunk.js": "/dfb-dict/static/js/443.9f8d6cd7.chunk.js",
     "static/js/738.863db75e.chunk.js": "/dfb-dict/static/js/738.863db75e.chunk.js",
     "static/js/372.9be1efb8.chunk.js": "/dfb-dict/static/js/372.9be1efb8.chunk.js",
@@ -14,7 +14,7 @@
     "service-worker.js": "/dfb-dict/service-worker.js",
     "index.html": "/dfb-dict/index.html",
     "main.74568ab2.css.map": "/dfb-dict/static/css/main.74568ab2.css.map",
-    "main.05fb44bc.js.map": "/dfb-dict/static/js/main.05fb44bc.js.map",
+    "main.c0bfec10.js.map": "/dfb-dict/static/js/main.c0bfec10.js.map",
     "443.9f8d6cd7.chunk.js.map": "/dfb-dict/static/js/443.9f8d6cd7.chunk.js.map",
     "738.863db75e.chunk.js.map": "/dfb-dict/static/js/738.863db75e.chunk.js.map",
     "372.9be1efb8.chunk.js.map": "/dfb-dict/static/js/372.9be1efb8.chunk.js.map",
@@ -27,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.74568ab2.css",
-    "static/js/main.05fb44bc.js"
+    "static/js/main.c0bfec10.js"
   ]
 }
