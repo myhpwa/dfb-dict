@@ -1,0 +1,10 @@
+{
+  "web_apps": [
+    {
+      "manifest": "https://myhpwa.github.io/dfb-dict/manifest.json",
+      "details": {
+        "paths": ["/dfb-dict", "/dfb-dict/*"]
+      }
+    }
+  ]
+}
