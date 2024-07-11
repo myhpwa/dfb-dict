@@ -1,30 +1,28 @@
 {
   "files": {
-    "main.css": "/dfb-dict/static/css/main.2a4b2094.css",
-    "main.js": "/dfb-dict/static/js/main.95db1d8d.js",
-    "static/js/738.863db75e.chunk.js": "/dfb-dict/static/js/738.863db75e.chunk.js",
-    "static/js/858.2dc3adc0.chunk.js": "/dfb-dict/static/js/858.2dc3adc0.chunk.js",
-    "static/js/372.81aab5bb.chunk.js": "/dfb-dict/static/js/372.81aab5bb.chunk.js",
-    "static/js/856.0d28a9c3.chunk.js": "/dfb-dict/static/js/856.0d28a9c3.chunk.js",
-    "static/js/22.d70a8dc4.chunk.js": "/dfb-dict/static/js/22.d70a8dc4.chunk.js",
+    "main.css": "/dfb-dict/static/css/main.45229814.css",
+    "main.js": "/dfb-dict/static/js/main.fa9f1792.js",
+    "static/js/201.47ddf2dd.chunk.js": "/dfb-dict/static/js/201.47ddf2dd.chunk.js",
+    "static/js/372.1a633634.chunk.js": "/dfb-dict/static/js/372.1a633634.chunk.js",
+    "static/js/856.4b6083e4.chunk.js": "/dfb-dict/static/js/856.4b6083e4.chunk.js",
+    "static/js/22.5019b046.chunk.js": "/dfb-dict/static/js/22.5019b046.chunk.js",
     "static/js/344.8056adeb.chunk.js": "/dfb-dict/static/js/344.8056adeb.chunk.js",
-    "static/js/841.44030d2d.chunk.js": "/dfb-dict/static/js/841.44030d2d.chunk.js",
-    "static/js/186.0c2bdf76.chunk.js": "/dfb-dict/static/js/186.0c2bdf76.chunk.js",
+    "static/js/841.7daf6da5.chunk.js": "/dfb-dict/static/js/841.7daf6da5.chunk.js",
+    "static/js/186.0cb7851e.chunk.js": "/dfb-dict/static/js/186.0cb7851e.chunk.js",
     "service-worker.js": "/dfb-dict/service-worker.js",
     "index.html": "/dfb-dict/index.html",
-    "main.2a4b2094.css.map": "/dfb-dict/static/css/main.2a4b2094.css.map",
-    "main.95db1d8d.js.map": "/dfb-dict/static/js/main.95db1d8d.js.map",
-    "738.863db75e.chunk.js.map": "/dfb-dict/static/js/738.863db75e.chunk.js.map",
-    "858.2dc3adc0.chunk.js.map": "/dfb-dict/static/js/858.2dc3adc0.chunk.js.map",
-    "372.81aab5bb.chunk.js.map": "/dfb-dict/static/js/372.81aab5bb.chunk.js.map",
-    "856.0d28a9c3.chunk.js.map": "/dfb-dict/static/js/856.0d28a9c3.chunk.js.map",
-    "22.d70a8dc4.chunk.js.map": "/dfb-dict/static/js/22.d70a8dc4.chunk.js.map",
+    "main.45229814.css.map": "/dfb-dict/static/css/main.45229814.css.map",
+    "main.fa9f1792.js.map": "/dfb-dict/static/js/main.fa9f1792.js.map",
+    "201.47ddf2dd.chunk.js.map": "/dfb-dict/static/js/201.47ddf2dd.chunk.js.map",
+    "372.1a633634.chunk.js.map": "/dfb-dict/static/js/372.1a633634.chunk.js.map",
+    "856.4b6083e4.chunk.js.map": "/dfb-dict/static/js/856.4b6083e4.chunk.js.map",
+    "22.5019b046.chunk.js.map": "/dfb-dict/static/js/22.5019b046.chunk.js.map",
     "344.8056adeb.chunk.js.map": "/dfb-dict/static/js/344.8056adeb.chunk.js.map",
-    "841.44030d2d.chunk.js.map": "/dfb-dict/static/js/841.44030d2d.chunk.js.map",
-    "186.0c2bdf76.chunk.js.map": "/dfb-dict/static/js/186.0c2bdf76.chunk.js.map"
+    "841.7daf6da5.chunk.js.map": "/dfb-dict/static/js/841.7daf6da5.chunk.js.map",
+    "186.0cb7851e.chunk.js.map": "/dfb-dict/static/js/186.0cb7851e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a4b2094.css",
-    "static/js/main.95db1d8d.js"
+    "static/css/main.45229814.css",
+    "static/js/main.fa9f1792.js"
   ]
 }
